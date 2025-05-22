@@ -1,0 +1,2 @@
+# SiwaTestnet
+Auto Connect Wallet
