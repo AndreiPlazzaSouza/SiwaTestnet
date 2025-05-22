@@ -1,5 +1,5 @@
 
-# SiwaTestnet
+# Siwa Testnet
 
 **Auto Connect Wallet**
 
